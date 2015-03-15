@@ -9,7 +9,7 @@ permalink:	/blog/:title
 title:		Thoughts of Sorts
 tagline:	'blog'
 description:	"A programming blog."
-url:		https://gabrieltalyor.github.io
+url:		https://gabrieltaylor.github.io
 
 author:
   name:		'Gabriel Taylor-Russ'
@@ -22,26 +22,26 @@ icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/gabrielruss
-    desc:	Follow me on twitter
-
   - icon:	github
     url:	https://github.com/gabrieltaylor
-    desc:	Fork me on github
+    desc:	See my repos on Github
+
+  - icon: linkedin
+    url:  https://ca.linkedin.com/in/gabrieltaylorruss
+    desc: Connect with me on LinkedIn
 
   - icon:	googleplus-alt
     url:	https://google.com/+GabrielTaylorRuss
-    desc:	Add me on google+
+    desc:	Add me on Google+
 
-    
+
 menu:
   - title:	Home
     url:	/
-    
+
   - title:	About
     url:	/about
-    
+
 copyright:
   author:	Gabriel Taylor-Russ
   url:		https://gabrieltaylor.github.io
